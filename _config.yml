@@ -1,10 +1,9 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
+name: "Tyler Duckworth"
+title: "Tyler Duckworth"
+description: "Website of a digital artist, student, and programmer."
+logo: 'assets/images/icon.png'
+favicon: 'assets/images/icon.png'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -13,19 +12,19 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  tyler:
+    name: Tyler Duckworth
+    display_name: Tyler
+    email: tyler.devtcn@gmail.com
+    web: https://tyler-duckworth.github.io
+    twitter: https://twitter.com/duckworth_tj
+    description: "Programmer, Digital Artist, and Student. I run this website and create the artwork and articles you see on here. If you have any questions, view the 'About' page."
+    gravatar: 88f58b2c858deebeeb3a5c1240087622
   john:
     name: John
     display_name: John    
     avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    gravatar: 88f58b2c858deebeeb3a5c1240087622
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
