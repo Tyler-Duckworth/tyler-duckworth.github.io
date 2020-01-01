@@ -7,6 +7,7 @@ favicon: 'assets/images/icon.png'
 include: ["_pages"]
 permalink: /:title/
 twitter_username: duckworth_tj
+baseurl: ""
 
 # Authors
 authors:
