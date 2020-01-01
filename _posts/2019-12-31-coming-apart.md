@@ -3,7 +3,7 @@ layout: post
 title: "Coming Apart: How Lost Connection Causes a Crisis of Meaning"
 date: 2019-12-31
 description: "An assessment of the crisis that is upon us."
-image: assets/images/CAInvert.png
+image: assets/images/CAInvert.jpg
 author: tyler
 categories: [ Internship, Projects ]
 tags: [red, yellow]
