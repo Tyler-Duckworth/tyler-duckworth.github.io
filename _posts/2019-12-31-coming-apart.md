@@ -8,7 +8,7 @@ author: tyler
 categories: [ Internship, Projects ]
 tags: [red, yellow]
 featured: true
-twitter_img_abs: https://tyler-duckworth.github.io/assets/images/CAInvert.png
+twitter_img_abs: https://tyler-duckworth.github.io/assets/images/CAInvert.jpg
 ---
 ## Foreword
 
