@@ -8,7 +8,6 @@ categories: [ Video Games, Reviews ]
 tags: [red, yellow]
 hidden: false
 image: assets/images/hellblade/cover.jpg
-twitter_img_abs: https://tyler-duckworth.github.io/assets/images/CAInvert.png
 ---
 
 No matter what it looks like at first, *Hellblade: Senua’s Sacrifice* is more than meets the eye, a lesson you learn very quickly in the first cutscene as the game starts. From the intimate visuals to the visceral combat, this game stands out not only as an achievement in storytelling, but also in game design. 
